@@ -3,4 +3,4 @@
 
 Imagem previa do mesmo abaixo
 
-![Imgur](https://imgur.com/YEgG8cX)
+![imagem previa](https://github.com/suederlima/site-logo-caixa-tem.github.io/blob/main/Previa%20readme.png)
