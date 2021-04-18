@@ -3,4 +3,4 @@
 
 Imagem previa do mesmo abaixo
 
-[! imagem previa(https://imgur.com/YEgG8cX)]
+[! imagem previa](https://imgur.com/YEgG8cX)
